@@ -1,4 +1,4 @@
-  "Global Online Retail Sales & Customer Behavior Analysis"
+"Global Online Retail Sales & Customer Behavior Analysis"
 📌 Project Overview
 
 This project is a complete Excel-based data analysis and dashboard solution built to analyze global online retail sales and customer behavior patterns.
